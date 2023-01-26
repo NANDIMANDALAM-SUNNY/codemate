@@ -18,8 +18,6 @@ npm start
 Please make sure to update tests as appropriate.
 
 ## created by Nandimandalam Sunny - Full Stack Developer
-![1](https://user-images.githubusercontent.com/90762658/214860832-268d6c05-e25f-4955-81f6-7b776d051307.png)
 
-
-![2](https://user-images.githubusercontent.com/90762658/214860840-7f83f8c6-d905-407d-90e7-38ed7cfaa99a.png)
-![3](https://user-images.githubusercontent.com/90762658/214860888-dcf4ce5a-8611-4bef-ae06-2a106bdb6f93.png)
+![1](https://user-images.githubusercontent.com/90762658/214861240-cbb6fc50-15af-4f0c-bfd6-59b0444cb5f2.png)
+![2](https://user-images.githubusercontent.com/90762658/214861248-481a6ecf-0976-4c1a-adc7-6cd49d53a8a7.png)
