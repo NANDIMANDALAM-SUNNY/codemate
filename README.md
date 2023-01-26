@@ -2,11 +2,11 @@
 # CodeMate
 
 Codemate is a online html,css,js compiler with live preview.We can change the theme according to our requirement,and we can download or share the code with our friends
-##Deployed Url : https://spacestream.netlify.app/
+##Deployed Url : https://codemate-sunny.netlify.app/
 
 ## Installation
 
-clone https://github.com/NANDIMANDALAM-SUNNY/spacestream
+git clone https://github.com/NANDIMANDALAM-SUNNY/codemate
 
 
 ```bash
