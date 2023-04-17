@@ -122,15 +122,23 @@ const Main = () => {
             <Tab icon={<AiFillHtml5 />} label="HTML" value="1" />
             <Tab icon={<DiCss3 />}  label="CSS" value="2" />
             <Tab icon={<SiJavascript />}  label="JavaScript" value="3" />
+            <TelegramShareButton
+                         url={srcDoc}
+                        quote={srcDoc}
+                        hashtag={'#Coding'}
+                    >
+                    <TelegramIcon size={40} round={true} />
+                    </TelegramShareButton>
             <Box  className={classes.icon} >
               <Box>
                 <SelectTheme />
               </Box>
             <div>
-              <Button onClick={handleOpen}  style={{color:"white",fontSize:"20px"}}>
+              {/* <Button onClick={handleOpen}  style={{color:"white",fontSize:"20px"}}>
                 <FaShareAltSquare />
-              </Button>
-              <Modal
+              </Button> */}
+            
+              {/* <Modal
                 aria-labelledby="transition-modal-title"
                 aria-describedby="transition-modal-description"
                 className={classes.modal}
@@ -176,7 +184,7 @@ const Main = () => {
 
                   </div>
                 </Fade>
-              </Modal>
+              </Modal> */}
           </div>
               <Box>
                 <Button style={{color:"white",fontSize:"20px"}} onClick={handleDownload} ><FaDownload  /></Button>
